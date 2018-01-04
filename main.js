@@ -53,7 +53,7 @@ let bayoCoin = new Blockchain();
 bayoCoin.addBlock(new Block(1, "04/01/2018", { amount: 4 }));
 bayoCoin.addBlock(new Block(2, "08/01/2018", { amount: 15 }));
 
-console.log("Valid?" + " "+ bayoCoin.isValid());
+console.log("Valid?" + " " + bayoCoin.isValid());
 
 bayoCoin.chain[1].data = { amount: 100 };
 
