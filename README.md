@@ -1,6 +1,6 @@
 # Block chain
 
-My journey to discovering block chain technology
+My journey to discovering blockchain technology
 
 ## To use
 
